@@ -10,6 +10,5 @@ def es_palindromo(palabra):
         print(True)
     else:
         print(False)
-    print(word)
-            
+               
 es_palindromo("hola")

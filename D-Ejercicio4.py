@@ -1,10 +1,10 @@
-def vocal(parametro):
+def vocal(letra):
     lis = ["a","e","i","o","u"]
     
-    if parametro in lis:
+    if letra in lis:
         print(True)
     else:
         print(False)
             
-vocal("u") 
+vocal("k") 
 

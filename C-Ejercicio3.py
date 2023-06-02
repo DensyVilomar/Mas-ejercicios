@@ -1,5 +1,6 @@
 def calcula_long(parametro):
      counter = 0
+     
      for i in parametro:
          counter += 1
      print(f"Hay {counter} elementos.")
