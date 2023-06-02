@@ -11,4 +11,4 @@ def es_palindromo(palabra):
     else:
         print(False)
                
-es_palindromo("hola")
+es_palindromo("ana")
