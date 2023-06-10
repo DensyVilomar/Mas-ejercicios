@@ -1,3 +1,5 @@
+### MI MANERA ###
+
 def analiza_cadena(cadena):
     
     mayusculas = ["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z"]
@@ -9,6 +11,8 @@ def analiza_cadena(cadena):
     print(f"Hay {contador} mayusculas en esta palabra.")
 
 analiza_cadena("OrNiTOrrinCo")
+
+### OTRA MANERA ###
 
 def otra_manera(cadena):
     cont = 0
