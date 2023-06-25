@@ -6,7 +6,7 @@ while True:
     
     print("""T-shirt.......... 1\nBelt............. 2\nShoes............ 3\nPants............ 4\nSocks............ 5\nSkirts........... 6\nCaps............. 7\nSweater.......... 8\nTie.............. 9\nJacket........... 10\n""")
     
-    t_shirt, belt, shoes, pants, socks, skirts, caps, sweater, tie,jacket, = 10, 20, 30, 40, 50, 60, 70, 80, 90, 10
+    t_shirt, belt, shoes, pants, socks, skirts, caps, sweater, tie,jacket, = 10, 20, 30, 40, 50, 60, 70, 80, 90, 100
     
     code = int(input("Insert a code: "))
     
